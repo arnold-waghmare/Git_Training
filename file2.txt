@@ -2,3 +2,4 @@ change for WI4 by teammate for rebase with conflict
 1. to fix bug 1.
 2. change for rebase on CR2
 3. change on remote server from teammate for pull test.
+4. bug4 fix
